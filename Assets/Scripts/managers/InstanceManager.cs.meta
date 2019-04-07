@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 03f64b0608317e74da4a0977b4c61fff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Starsinstance: {instanceID: 0}
+  - Constellationsinstance: {instanceID: 0}
+  - constellationOverlayInstance: {instanceID: 0}
+  - dl: {fileID: 11400000, guid: f035ace287c38a2469927ad350168f7d, type: 2}
+  - mg: {fileID: 11400000, guid: 5575f9edb6182bc4c80384fd8dbccb13, type: 2}
+  - cdbl: {fileID: 11400000, guid: 924e82b736c40d04084bbee313ae7773, type: 2}
+  - cmg: {fileID: 11400000, guid: 0ce431b840b2039439154ca1daf1d470, type: 2}
+  - Starsmpg: {fileID: 11400000, guid: abb82157b5cdc8f48b2fae7faa03cc17, type: 2}
+  - Constellationsmpg: {fileID: 11400000, guid: 5c58aef04292cc24993445ac7440a245,
+      type: 2}
+  - MeshConstellationOverlayPrefabGenerator: {fileID: 11400000, guid: c09991504957bc34ba1f3d49e5a50ba6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

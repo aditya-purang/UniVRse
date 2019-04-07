@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d269a1cff7e162243be7d3e8aa420ce0, type: 3}
+  m_Name: Mesh Constellation Overlay Prefab Generator
+  m_EditorClassIdentifier: 
+  FolderPath: Assets/ProceduralObjects/constellation overlay
+  canvasPrefab: {fileID: 4498612409198845892, guid: a5e8fbb9414691d478510d2e29d0c8ae,
+    type: 3}
+  overlayPrefab: {fileID: 498836124871424552, guid: 92ed0d0cb571434429bc68c02d6e93e9,
+    type: 3}
+  databaseLoader: {fileID: 11400000, guid: 924e82b736c40d04084bbee313ae7773, type: 2}
